@@ -11,5 +11,5 @@ Execute o script:
 pathloss3.m
 ```
 ## Resultados
-
+![image](https://github.com/user-attachments/assets/d84195c2-7159-4fb1-b01c-5beb682fa155)
 
